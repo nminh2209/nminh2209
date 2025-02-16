@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Minh</h1>
-<h3 align="center">A passionate software developer in Viet Nam</h3>
+<h3 align="center">A passionate software developer from Viet Nam</h3>
 
 - 🔭 I’m currently working on [PsychHealth](https://github.com/nminh2209/startupproject)
 
