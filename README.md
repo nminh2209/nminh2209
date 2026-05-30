@@ -50,7 +50,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyen-minh-759149223/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Nguyen Hoang Minh's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:nminh22092209@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nguyen Hoang Minh's Email"/></a>&nbsp;&nbsp;
-  <a href="nminh2209.github.io"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="[nminh2209.github.io](https://nminh2209.github.io/)"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 <p align="center">
