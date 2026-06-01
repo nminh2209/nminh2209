@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
+<img src="[https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif](https://tenor.com/uPBbhFGXsWs.gif)" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack engineer based in Hanoi, Vietnam
