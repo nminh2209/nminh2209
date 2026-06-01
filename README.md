@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://tenor.com/uPBbhFGXsWs.gif" alt="Banner" width="100%" />
+<img src="https://media.giphy.com/media/l0HlGy9x8FZo0XO1i/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack engineer based in Hanoi, Vietnam
