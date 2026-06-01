@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="[https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif](https://tenor.com/uPBbhFGXsWs.gif)" alt="Banner" width="100%" />
+<img src="https://tenor.com/uPBbhFGXsWs.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack engineer based in Hanoi, Vietnam
@@ -48,8 +48,8 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguyen-minh-759149223/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Nguyen Hoang Minh's LinkedIn" /></a>
-  <a href="mailto:nminh22092209@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nguyen Hoang Minh's Email" /></a>
+  <a href="https://www.linkedin.com/in/nguyen-minh-759149223/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Nguyen Hoang Minh's LinkedIn"/></a>
+  <a href="mailto:nminh22092209@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nguyen Hoang Minh's Email"/></a>
   <a href="https://nminh2209.github.io/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
