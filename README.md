@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media.tenor.com/36RK9ZGp_1IAAAAC/ff7-clerith.gif" alt="Banner" width="100%" />
+<img src="./assets/banner.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack engineer based in Hanoi, Vietnam
