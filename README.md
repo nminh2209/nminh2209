@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<div class="tenor-gif-embed" data-postid="4831446232757965347" data-share-method="host" data-aspect-ratio="1.245" data-width="100%"><a href="https://tenor.com/view/ff7-clerith-cloud-aerith-gondola-gif-4831446232757965347">Ff7 Clerith GIF</a>from <a href="https://tenor.com/search/ff7-gifs">Ff7 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/36RK9ZGp_1IAAAAC/ff7-clerith.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack engineer based in Hanoi, Vietnam
