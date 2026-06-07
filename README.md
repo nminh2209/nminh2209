@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="./assets/banner.gif" alt="Banner" width="100%" />
+<img src="./final-fantasy-7-vii.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Full-stack engineer based in Hanoi, Vietnam
