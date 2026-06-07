@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R6ZHgxYzY2aTZkY2h1cnVqcmc5cGw5amZyZXp4MHR6aXFwMGd6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EB8Kh3y8xQDrvtalcD/giphy.gif" alt="Banner" width="100%" />
+<div class="tenor-gif-embed" data-postid="4831446232757965347" data-share-method="host" data-aspect-ratio="1.245" data-width="100%"><a href="https://tenor.com/view/ff7-clerith-cloud-aerith-gondola-gif-4831446232757965347">Ff7 Clerith GIF</a>from <a href="https://tenor.com/search/ff7-gifs">Ff7 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 📌 About Me
 - Full-stack engineer based in Hanoi, Vietnam
@@ -32,7 +32,7 @@
   <a href="https://github.com/nminh2209">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nminh2209&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="nminh2209's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=nminh2209&theme=dark&hide_border=true&cache_seconds=86400" alt="nminh2209's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nminh2209&theme=dark&hide_border=true" alt="nminh2209's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=nminh2209&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nguyen Hoang Minh's GitHub Trophies" />
